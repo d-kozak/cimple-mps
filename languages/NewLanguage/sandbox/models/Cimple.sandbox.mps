@@ -24,7 +24,7 @@
   </registry>
   <node concept="2NoNsf" id="3jDZpuMd_oS">
     <node concept="2BWN1r" id="3KDDmArQN0a" role="26RYfp">
-      <property role="TrG5h" value="main" />
+      <property role="TrG5h" value="foo" />
       <node concept="26RIeE" id="3KDDmArQN0c" role="2BWN1v" />
     </node>
   </node>
