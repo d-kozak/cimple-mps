@@ -46,6 +46,7 @@
   </generators>
   <sourcePath />
   <languageVersions>
+    <language slang="l:91e0b9e8-6822-46c5-933a-28379fa7add8:Cimple" version="0" />
     <language slang="l:f3061a53-9226-4cc5-a443-f952ceaf5816:jetbrains.mps.baseLanguage" version="6" />
     <language slang="l:443f4c36-fcf5-4eb6-9500-8d06ed259e3e:jetbrains.mps.baseLanguage.classifiers" version="0" />
     <language slang="l:fd392034-7849-419d-9071-12563d152375:jetbrains.mps.baseLanguage.closures" version="0" />
